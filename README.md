@@ -2,7 +2,7 @@
 
 Layout developed by [Rocketseat](https://www.rocketseat.com.br/)
 
-## 💡 Technologies used
+## 💡 tecnologias usadas
 
 ### Back-end
 
